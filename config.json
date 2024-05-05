@@ -1,16 +1,25 @@
 {
-	"mainURL": "https://play.vyrek.dev/es/",
-	"repositoryName": "SecretAgencyClubPenguin/ClubPenguinClient",
+	"mainURL": "http://clubn.22web.org/play/",
+	"repositoryName": "TheOnlyOne12315/ClubPenguinClient",
 	"discordRpc": {
-		"enable": true,
+		"enable": false,
 		"discordAppId": "995035289263292426",
 		"activityTitle": "Secret Agency Club Penguin",
 		"activityDescription": "Jugando club penguin!",
 		"buttons": [
-			{
-				"label": "Unirse al servidor",
-				"url": "https://discord.gg/g3ZbCmShD4"
+						{
+				"label": "About",
+				"url": "http://clubn.22web.org/about"
 			}
+			{
+				"label": "Fullscreen",
+				"url": "http://clubn.22web.org/play/fullscreen"
+			}
+			{
+				"label": "More projects like this!",
+				"url": "http://dteg.22web.org"
+			}
+
 		]
 	},
 	"windowSettings": {
